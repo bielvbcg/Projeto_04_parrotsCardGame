@@ -27,7 +27,7 @@ As seguintes tecnologias foram usadas para a construção do projeto:<br>
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
    <img style='margin: 5px' src='https://img.shields.io/badge/Context-API-blue?style=for-the-badge&logo=appveyor'>
    
-##Como rodar
+## Como rodar
 
 - Clone este repositório 
 - Inicie com o Live Server
